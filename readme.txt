@@ -1,0 +1,1 @@
+This project provides a simple JavaScript function to retrieve information about LGBTQIA+ genders based on a selector string. The function returns the terms along with their Wikipedia links and color-coded representations using Tailwind CSS classes.
